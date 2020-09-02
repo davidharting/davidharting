@@ -1,3 +1,3 @@
 ### Hi, I'm David Harting 👋
 
-and it's a great day to build software ☀️
+I'm a software engineer from Westfield, IN. I am an experienced web developer with a growing skill set in data engineering / data science.
